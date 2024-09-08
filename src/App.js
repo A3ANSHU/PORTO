@@ -1,7 +1,7 @@
 import './App.css';
 // import video from './ASSETS/bgv.mp4'
 import video from './ASSETS/coding-desk-preview.mp4'
-import LineLoader from './PORTFOLIO/LineLoder';
+// import LineLoader from './PORTFOLIO/LineLoder';
 
 
 import SideNav from './PORTFOLIO/SideNav';
